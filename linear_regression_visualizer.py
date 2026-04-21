@@ -23,7 +23,7 @@ y_pred = m * x + b
 # Error
 mse = np.mean((y - y_pred) ** 2)
 
-# 🔥 NEW: Predict for new value
+# Predict for new value
 x_new = float(input("Enter a new X value to predict Y: "))
 y_new = m * x_new + b
 
