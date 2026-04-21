@@ -1,6 +1,6 @@
-# 📊 Linear Regression Visualizer: Understanding How Machines Learn from Data
+# Linear Regression Visualizer: Understanding How Machines Learn from Data
 
-## 📌 Overview
+##  Overview
 This project demonstrates how machines learn patterns from data using **Linear Regression**, one of the simplest and most fundamental machine learning algorithms.
 
 The goal is to show how a model can:
@@ -11,7 +11,7 @@ The goal is to show how a model can:
 
 ---
 
-## 🧠 Concept
+##  Concept
 
 Linear Regression is based on the equation:
 
@@ -25,7 +25,7 @@ The model finds the best values of **m** and **b** to fit the given data.
 
 ---
 
-## ⚙️ Features
+##  Features
 
 -  User input for custom datasets  
 -  Visualization of data points  
@@ -36,7 +36,7 @@ The model finds the best values of **m** and **b** to fit the given data.
 
 ---
 
-## 💻 How It Works
+##  How It Works
 
 1. User enters X and Y values  
 2. The model calculates:
@@ -48,7 +48,7 @@ The model finds the best values of **m** and **b** to fit the given data.
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Install required library:
 ```bash
